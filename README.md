@@ -6,10 +6,5 @@ ui.R
 server.R
 The application is accesible in: https://rit2410.shinyapps.io/appshiny/
 
-After a presentation of the application is disigned using slidify. The presentation could be visualized in:
+After a presentation of the application is disigned using slidify. 
 
-http://ibonaranburu.github.io/Data-Product-Presentation/index.html
-
-or in:
-
-http://rpubs.com/ibonaranburu/21292
